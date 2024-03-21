@@ -1,2 +1,4 @@
-package instructor;public class task01 {
+package instructor.week01;
+
+public class task01 {
 }
