@@ -1,6 +1,6 @@
 package narmin;
 
-public class Task02 {
+public class task02 {
     public static void main(String[] args) {
 
     //QUESTION 2- Numbers without / operator
