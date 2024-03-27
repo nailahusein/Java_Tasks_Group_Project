@@ -1,4 +1,5 @@
 
+
 package instructor;public class task01 {
      /*
       QUESTION 1 - Write a method which can identify if a given number odd or even
