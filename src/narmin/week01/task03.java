@@ -1,4 +1,4 @@
-package narmin;
+package narmin.week01;
 
 public class task03 {
 
