@@ -5,11 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class T2_NumbersDivisibleBy {
-    public static void main(String[] args) {
-
-
-        class DivisibleNumbers {
-            public static void main(String[] args) {
+    public static void main(String[] args)  {
                 Scanner scanner = new Scanner(System.in);
                 System.out.print("Enter a number: ");
                 int inputNumber = scanner.nextInt();
@@ -34,7 +30,7 @@ public class T2_NumbersDivisibleBy {
                 System.out.println("Divisible By 3: " + divisibleBy3);
             }
         }
-    }
+
 
     //Numbers – Divisible by 3, 5, 15
     //Write a program that can print the numbers between 1 ~ N that can be divisible by 3, 5, and 15.
@@ -57,4 +53,4 @@ public class T2_NumbersDivisibleBy {
     //
 
 
-}
+
