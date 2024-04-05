@@ -10,14 +10,5 @@ public class T3_SwapTwoVariables {
         a = b;
         b = temp;
         System.out.println(a);
-        System.out.println(b);
-
     }
-    /*
-Numbers – Swap Numbers
-Swap two variables' values without using a third variable.
-
-*/
-
-
 }
