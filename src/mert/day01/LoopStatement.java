@@ -1,4 +1,4 @@
-package naila.group_study.day01;
+package mert.day01;
 
 public class LoopStatement {
 
@@ -12,7 +12,6 @@ public class LoopStatement {
         }
     }
 }
-
 /*
  Create a class named Alphabets and use a nested loop to print the following output:
 

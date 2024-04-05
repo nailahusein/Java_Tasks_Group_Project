@@ -1,4 +1,4 @@
-package naila.group_study.day01;
+package Dina.group_study;
 
 public class SwitchStatement {
 
@@ -21,7 +21,6 @@ public class SwitchStatement {
         }
     }
 }
-
 
 /*
 Create a class called Calculator. Given two double variables named n1 and n2 and a char

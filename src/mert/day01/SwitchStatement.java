@@ -1,27 +1,7 @@
-package naila.group_study.day01;
+package mert.day01;
 
 public class SwitchStatement {
-
-    public static void main(String[] args) {
-
-
-        double n1 = 10;
-        double n2 = 20;
-        char mathOperator = '+';
-
-        switch (mathOperator) {
-
-            case '+' -> System.out.println(n1 + n2);
-            case '-' -> System.out.println(n1 - n2);
-            case '*' -> System.out.println(n1 * n2);
-            case '/' -> System.out.println(n1/n2);
-
-            default -> System.out.println("Invalid operator");
-
-        }
-    }
 }
-
 
 /*
 Create a class called Calculator. Given two double variables named n1 and n2 and a char

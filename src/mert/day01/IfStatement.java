@@ -1,4 +1,4 @@
-package naila.group_study.day01;
+package mert.day01;
 
 public class IfStatement {
 
