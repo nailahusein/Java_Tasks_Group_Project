@@ -18,7 +18,7 @@ public class task01 {
                 Set<Character> uniqueChars = new HashSet<>();
                 Set<Character> nonUniqueChars = new HashSet<>();
 
-                // Iterate through the string to find unique characters
+
                 for (int i = 0; i < str.length(); i++) {
                     char currentChar = str.charAt(i);
                     if (!nonUniqueChars.contains(currentChar)) {
