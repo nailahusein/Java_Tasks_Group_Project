@@ -4,11 +4,13 @@ public class LoopStatement {
 
     public static void main(String[] args) {
 
-
-
-
+        for (char i = 'A'; i <= 'E'; i++) {
+            for (char j = 'a'; j <= 'z'; j++) {
+                System.out.print(" " + i + j);
+            }
+            System.out.println();
+        }
     }
-
 }
 
 /*
@@ -20,3 +22,6 @@ public class LoopStatement {
 		Da Db Dc Dd De Df Dg Dh Di Dj Dk Dl Dm Dn Do Dp Dq Dr Ds Dt Du Dv Dw Dx Dy Dz
 		Ea Eb Ec Ed Ee Ef Eg Eh Ei Ej Ek El Em En Eo Ep Eq Er Es Et Eu Ev Ew Ex Ey Ez
  */
+
+
+//next week methods part one and class/objects part one.
