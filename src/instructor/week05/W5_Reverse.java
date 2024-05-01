@@ -29,6 +29,5 @@ W5_Reverse {
     }
     public  static String  Reverse(String str) {
 
-       return new StringBuffer(str).reverse().toString();
-    }
+
 }
