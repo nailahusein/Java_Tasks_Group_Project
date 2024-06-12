@@ -1,4 +1,5 @@
 package narmin.week09;
+//Array-concat two arrays. Write a return method that can concate two arrays.
 
 public class ArrayConcat {
 
